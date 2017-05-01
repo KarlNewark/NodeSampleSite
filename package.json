@@ -1,0 +1,11 @@
+{
+  "name": "node-sample-site",
+  "version": "1.0.0",
+  "description": "Sample site for ci/cd work",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Karl Newark",
+  "license": "ISC"
+}
