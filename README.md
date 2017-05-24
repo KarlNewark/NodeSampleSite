@@ -1,2 +1,2 @@
 # NodeSampleSite
-A simple sample site for CI/CD experimentation. 
+A super simple sample site for CI/CD experimentation. 
